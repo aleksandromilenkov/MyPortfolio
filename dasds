@@ -1,0 +1,48 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex fe988bf..0dc7d33 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -188,6 +188,30 @@[m
+         >[m
+           <img src="img/natours.png" alt="" class="portfolio__img" />[m
+         </a>[m
+[32m+[m[32m        <a[m
+[32m+[m[32m          href="portoflio-item_7.html"[m
+[32m+[m[32m          target="_blank"[m
+[32m+[m[32m          title="Credit Spring"[m
+[32m+[m[32m          class="portfolio__item"[m
+[32m+[m[32m        >[m
+[32m+[m[32m          <img src="img/credit-spring.png" alt="" class="portfolio__img" />[m
+[32m+[m[32m        </a>[m
+[32m+[m[32m        <a[m
+[32m+[m[32m          href="portfolio-item_8.html"[m
+[32m+[m[32m          target="_blank"[m
+[32m+[m[32m          title="NoOne Game"[m
+[32m+[m[32m          class="portfolio__item"[m
+[32m+[m[32m        >[m
+[32m+[m[32m          <img src="img/noOneGame.png" alt="" class="portfolio__img" />[m
+[32m+[m[32m        </a>[m
+[32m+[m[32m        <a[m
+[32m+[m[32m          href="portfolio-item_9.html"[m
+[32m+[m[32m          target="_blank"[m
+[32m+[m[32m          title="Gym Shark"[m
+[32m+[m[32m          class="portfolio__item"[m
+[32m+[m[32m        >[m
+[32m+[m[32m          <img src="img/gymShark.png" alt="" class="portfolio__img" />[m
+[32m+[m[32m        </a>[m
+       </div>[m
+     </section>[m
+ [m
+[1mdiff --git a/portfolio-item_3.html b/portfolio-item_3.html[m
+[1mindex 4c1a7d1..a4c2b3e 100644[m
+[1m--- a/portfolio-item_3.html[m
+[1m+++ b/portfolio-item_3.html[m
+[36m@@ -62,7 +62,7 @@[m
+         A fictive company <em>Omnifood</em>. Sends meals to it's subscribers[m
+       </p>[m
+       <img src="img/omnifood.png" alt="" />[m
+[31m-      <p>You can check the full quiz in the link bellow</p>[m
+[32m+[m[32m      <p>You can check the full website in the link bellow</p>[m
+       <p>[m
+         <a href="https://omnifood-aleksandro.netlify.app/" target="_blank"[m
+           >Omnifood</a[m
